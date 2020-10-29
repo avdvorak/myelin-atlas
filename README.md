@@ -12,6 +12,10 @@ The structural template, quantitative myelin water imaging atlases, tissue segme
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4067119.svg)](https://doi.org/10.5281/zenodo.4067119)
 
 
+
+The structural template and myelin atlas can also be viewed interactively at: https://www.msmri.com/brain-atlases/
+
+
 ## ANTs Installation
 The pipeline used the Advanced Normalization Tools software (https://github.com/ANTsX/ANTs). Instructions for compiling and setting up ANTs can be found here:
 

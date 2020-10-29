@@ -1,6 +1,15 @@
 # Myelin Atlas
 Example code for atlas creation methods used in *An atlas for human brain myelin content throughout the adult life span*. 
-DOI from Zenodo: [![DOI](https://zenodo.org/badge/301498182.svg)](https://zenodo.org/badge/latestdoi/301498182)
+
+DOI for this example code:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4067132.svg)](https://doi.org/10.5281/zenodo.4067132)
+
+
+
+The structural template, quantitative myelin water imaging atlases, tissue segmentations, and regions of interest generated and analyzed in the study are available here: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4067119.svg)](https://doi.org/10.5281/zenodo.4067119)
 
 
 ## ANTs Installation

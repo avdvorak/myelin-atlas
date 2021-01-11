@@ -1,5 +1,8 @@
 # Myelin Atlas
-Example code for atlas creation methods used in *An atlas for human brain myelin content throughout the adult life span*. 
+Example code for atlas creation methods used in: 
+
+*An atlas for human brain myelin content throughout the adult life span*. 
+https://www.nature.com/articles/s41598-020-79540-3
 
 DOI for this example code:
 

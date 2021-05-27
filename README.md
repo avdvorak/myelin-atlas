@@ -4,6 +4,10 @@ Example code for atlas creation methods used in:
 *An atlas for human brain myelin content throughout the adult life span*. 
 https://www.nature.com/articles/s41598-020-79540-3
 
+
+<img width="1280" alt="GitHug_Image2" src="https://user-images.githubusercontent.com/24612184/119878439-f6595980-bede-11eb-82cd-3935c21a191d.png">
+
+
 DOI for this example code:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4067132.svg)](https://doi.org/10.5281/zenodo.4067132)
@@ -16,7 +20,7 @@ The structural template, quantitative myelin water imaging atlases, tissue segme
 
 
 
-The structural template and myelin atlas can also be viewed interactively at: https://www.msmri.com/brain-atlases/
+The structural template and myelin atlas will soon be available to be viewed interactively at: https://www.msmri.com/brain-atlases/
 
 
 ## ANTs Installation
